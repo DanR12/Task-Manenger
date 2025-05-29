@@ -1,0 +1,16 @@
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\bin\Release\net8.0-windows\TaskManagerApp.exe
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\bin\Release\net8.0-windows\TaskManagerApp.deps.json
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\bin\Release\net8.0-windows\TaskManagerApp.runtimeconfig.json
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\bin\Release\net8.0-windows\TaskManagerApp.dll
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\bin\Release\net8.0-windows\TaskManagerApp.pdb
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\TaskManagerApp.Form1.resources
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\TaskManagerApp.csproj.GenerateResource.cache
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\TaskManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\TaskManagerApp.AssemblyInfoInputs.cache
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\TaskManagerApp.AssemblyInfo.cs
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\TaskManagerApp.csproj.CoreCompileInputs.cache
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\TaskManagerApp.dll
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\refint\TaskManagerApp.dll
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\TaskManagerApp.pdb
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\TaskManagerApp.genruntimeconfig.cache
+E:\rep\TaskManager\TaskManagerApp\TaskManagerApp\obj\Release\net8.0-windows\ref\TaskManagerApp.dll
